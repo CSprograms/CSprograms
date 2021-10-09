@@ -1,13 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CSprograms Pages
 
-You can use the [editor on GitHub](https://github.com/CSprograms/aravindhan/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This repository is used to share codes, which are demonstrated in CSprograms YouTube Channel
 ```markdown
 Syntax highlighted code block
 
